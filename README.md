@@ -1,15 +1,19 @@
-## prashant
+<pre>
+  p r a s h a n t
+  
+  [php] [laravel] [blade]
+</pre>
 
-dev based in nepal.
-building w/ laravel (blade) & filament.
+i build stuff on the web.
+currently working on school systems & news portals.
 
-**shipping**
-— [thenepalese.com](https://thenepalese.com) (news portal)
-— [smritiebs.edu.np](https://smritiebs.edu.np) (school sys)
+**works**
++ [thenepalese.com](https://thenepalese.com)
++ [smritiebs.edu.np](https://smritiebs.edu.np)
++ [github.io](https://pras-1n.github.io)
 
 **contact**
 prashantguragai1016@gmail.com
-
 ---
 
 **Tech Stack:**
