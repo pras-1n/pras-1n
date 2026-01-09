@@ -1,13 +1,11 @@
 ### Hi there, I'm Prashant! 👋
 
-I'm a Computer Science student and Laravel Developer from Nepal.
-
+I'm a Computer Science student and Laravel Junior Developer from Nepal.
 I'm a CS Student at Nihareeka College with a passion for building robust web applications.
 
 - 🔭 **Current Work:** Recently finished a full-stack site for Smriti Boarding School.
-- 🌱 **Learning:** Currently diving deeper into JavaScript through Maximilian Schwarzmüller's guide.
+- 🌱 **Learning:** Currently diving deeper into JavaScript through Maximilian Schwarzmüller's guide. I’m also currently looking forward to learning **React and Python**
 - 📜 **History:** I've been coding and building projects on GitHub for over 2 years.
-- 🌱 I’m currently learning **React and Python**
 - 💼 Check out my portfolio: [pras-1n.github.io](https://pras-1n.github.io)
 - 📫 How to reach me: prashantguragai1016@gmail.com
 
