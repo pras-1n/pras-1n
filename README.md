@@ -1,7 +1,7 @@
 <pre>
   p r a s h a n t
   
-  <!--[tailwind] [js] [php] [laravel] [blade] -->
+  [tailwind] [js] [php]
 </pre>
 
 i build stuff on the web. <br />
