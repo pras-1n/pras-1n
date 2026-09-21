@@ -1,7 +1,7 @@
 <pre>
   p r a s h a n t
   
-  [html] [js] [python]
+  [html] [js] [java]
 </pre>
 
 i build stuff on the web. <br />
